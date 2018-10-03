@@ -1,0 +1,81 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 09:53:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 09:53:34 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 91629
+2018-08-30 09:53:39 ::1 GET /Content/bootstrap.css - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 118
+2018-08-30 09:53:39 ::1 GET /Content/site.css - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 250
+2018-08-30 09:53:39 ::1 GET /Scripts/jquery-1.10.2.js - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 113
+2018-08-30 09:53:39 ::1 GET /Scripts/bootstrap.js - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 113
+2018-08-30 09:53:39 ::1 GET /Scripts/modernizr-2.6.2.js - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 220
+2018-08-30 09:53:39 ::1 GET /Scripts/respond.js - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 304 0 0 297
+2018-08-30 09:55:46 ::1 POST /FileUpload - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 200 0 0 24853
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 09:58:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 09:58:40 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 30061
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:03:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:03:38 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 12849
+2018-08-30 10:10:58 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 10138
+2018-08-30 10:10:58 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1116
+2018-08-30 10:11:10 ::1 POST /FileUpload - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/fileUpload/index 200 0 0 43
+2018-08-30 10:13:14 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 11191
+2018-08-30 10:13:14 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4475
+2018-08-30 10:13:25 ::1 GET /fileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 18
+2018-08-30 10:13:51 ::1 POST /FileUpload - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/fileUpload/Index 200 0 0 10
+2018-08-30 10:15:39 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1164
+2018-08-30 10:15:52 ::1 POST /FileUpload/submit - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 500 0 0 1001
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:17:07
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:17:07 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 23086
+2018-08-30 10:17:07 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 13422
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:18:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:18:23 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 7621
+2018-08-30 10:18:23 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 186
+2018-08-30 10:18:40 ::1 POST /FileUpload/submit - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/fileUpload/index 500 0 0 342
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:19:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:19:34 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 14167
+2018-08-30 10:19:34 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4400
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:21:24
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:21:24 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 12943
+2018-08-30 10:21:24 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1995
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:22:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:22:00 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 10357
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:25:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:25:23 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 13796
+2018-08-30 10:25:23 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 5133
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:28:18
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:28:18 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 13145
+2018-08-30 10:28:18 ::1 GET /fileUpload/index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7139
+2018-08-30 10:28:41 ::1 POST /FileUpload/submit - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/fileUpload/index 500 0 0 10999
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-30 10:30:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-30 10:30:03 ::1 GET / - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 13631
+2018-08-30 10:30:03 ::1 GET /FileUpload/Index - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 5134
+2018-08-30 10:30:24 ::1 POST /FileUpload/submit - 63045 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:63045/FileUpload/Index 200 0 0 6318

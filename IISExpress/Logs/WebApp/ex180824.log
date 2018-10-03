@@ -1,0 +1,191 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-24 05:01:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-24 05:01:59 ::1 GET /WebForm2.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 22414
+2018-08-24 05:13:03 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 51238
+2018-08-24 05:13:16 ::1 GET /favicon.ico - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 99
+2018-08-24 05:16:47 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 902
+2018-08-24 05:16:47 ::1 GET /Images/edit.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 335
+2018-08-24 05:16:47 ::1 GET /Images/Delete2.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 343
+2018-08-24 05:16:47 ::1 GET /Images/Add1.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 68
+2018-08-24 05:16:47 ::1 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZIiAx4vZ-1dMkdhXuVTQFJ11LNI85ZWRG8QUiR9er7NZaKMyJT5cQSCSFoUUbzkvEw2&t=636668888816624236 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 937
+2018-08-24 05:16:48 ::1 GET /images/calendar.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 90
+2018-08-24 05:28:54 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 14035
+2018-08-24 05:29:57 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 13
+2018-08-24 05:30:06 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 57
+2018-08-24 05:31:18 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 12
+2018-08-24 05:34:38 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2235
+2018-08-24 05:42:30 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2002
+2018-08-24 05:49:29 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 282
+2018-08-24 05:49:30 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 412
+2018-08-24 05:49:39 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 8
+2018-08-24 05:49:43 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 8
+2018-08-24 05:49:43 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 5
+2018-08-24 05:49:43 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 12
+2018-08-24 05:49:44 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 9
+2018-08-24 05:49:44 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 6
+2018-08-24 05:49:46 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 5
+2018-08-24 05:49:47 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 8
+2018-08-24 05:50:09 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 302 0 0 170
+2018-08-24 05:50:09 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 103
+2018-08-24 05:53:17 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 55
+2018-08-24 06:07:48 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 15900
+2018-08-24 06:12:10 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2295
+2018-08-24 06:14:35 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 40
+2018-08-24 06:15:42 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 103
+2018-08-24 06:16:57 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2153
+2018-08-24 06:24:56 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2051
+2018-08-24 06:28:13 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 1876
+2018-08-24 06:29:17 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 1438
+2018-08-24 06:29:23 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 170
+2018-08-24 06:30:19 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 1673
+2018-08-24 06:30:24 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 500 0 0 87
+2018-08-24 06:32:55 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2106
+2018-08-24 06:36:13 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 1760
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-24 08:58:30
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-24 08:58:30 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 64 88011
+2018-08-24 08:58:30 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 21284
+2018-08-24 08:58:45 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 1423
+2018-08-24 08:58:50 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 17
+2018-08-24 08:58:52 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 3059
+2018-08-24 09:12:31 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 6040
+2018-08-24 09:12:39 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 11
+2018-08-24 09:12:42 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 554
+2018-08-24 09:12:48 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 27
+2018-08-24 09:12:57 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 613
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-24 11:41:28
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-24 11:41:28 ::1 GET /CustomerHandler - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 368
+2018-08-24 11:41:33 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 33410
+2018-08-24 11:41:45 ::1 GET /CustomerHandler.ashx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 269
+2018-08-24 11:47:08 ::1 GET /CustomerHandler.ashx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 591
+2018-08-24 11:48:36 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3686
+2018-08-24 11:48:53 ::1 GET /CustomerHandler.ashx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 140
+2018-08-24 12:03:11 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 7748
+2018-08-24 12:03:49 ::1 GET /favicon.ico - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 26
+2018-08-24 12:03:58 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 2245
+2018-08-24 12:04:11 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 395
+2018-08-24 12:04:36 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 153
+2018-08-24 12:08:27 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 2919
+2018-08-24 12:08:33 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 21
+2018-08-24 12:08:42 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 94
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-24 12:33:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-24 12:33:57 ::1 GET /jquery-ui.css - 61090 - ::1 - - 404 0 2 119
+2018-08-24 12:35:08 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 29365
+2018-08-24 12:35:08 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 325
+2018-08-24 12:35:08 ::1 GET /Scripts/jquery-3.3.1.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 461
+2018-08-24 12:35:09 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 80
+2018-08-24 12:35:19 ::1 GET /jquery-ui.css - 61090 - ::1 - - 404 0 2 26
+2018-08-24 12:35:30 ::1 POST /MainForm.aspx/GetCustomerName - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 500 0 0 81
+2018-08-24 12:35:32 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 84
+2018-08-24 12:35:32 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 44
+2018-08-24 12:35:59 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 3245
+2018-08-24 12:35:59 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 27
+2018-08-24 12:35:59 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 39
+2018-08-24 12:36:03 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 170
+2018-08-24 12:36:09 ::1 GET /CustomerHandler.ashx term=a 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 16
+2018-08-24 12:36:11 ::1 GET /CustomerHandler.ashx term=c 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 35
+2018-08-24 12:36:23 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 24
+2018-08-24 12:36:30 ::1 GET /CustomerHandler.ashx term=a 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 70
+2018-08-24 12:36:35 ::1 GET /CustomerHandler.ashx term=j 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 18
+2018-08-24 12:36:43 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 302 0 0 150
+2018-08-24 12:36:43 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 155
+2018-08-24 12:37:07 ::1 POST /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/Employee.aspx 200 0 0 1305
+2018-08-24 12:37:21 ::1 POST /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/Employee.aspx 200 0 0 194
+2018-08-24 12:37:28 ::1 POST /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/Employee.aspx 200 0 0 101
+2018-08-24 12:37:47 ::1 POST /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/Employee.aspx 200 0 0 110
+2018-08-24 12:39:55 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 178
+2018-08-24 12:39:56 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 341
+2018-08-24 12:40:01 ::1 GET /CustomerHandler.ashx term=min 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 78
+2018-08-24 12:40:01 ::1 GET /CustomerHandler.ashx term=mina 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 19
+2018-08-24 12:40:03 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 340
+2018-08-24 12:40:03 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 69
+2018-08-24 12:40:31 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 598
+2018-08-24 12:40:31 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 100
+2018-08-24 12:40:53 ::1 GET /CustomerHandler.ashx term=mina 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 52
+2018-08-24 12:40:57 ::1 GET /CustomerHandler.ashx term=Manisha 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 34
+2018-08-24 12:41:00 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 285
+2018-08-24 12:41:00 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 78
+2018-08-24 12:41:29 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 101
+2018-08-24 12:41:29 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 52
+2018-08-24 12:41:29 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 32
+2018-08-24 12:41:41 ::1 GET /CustomerHandler.ashx term=mala 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 38
+2018-08-24 12:41:43 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 172
+2018-08-24 12:41:43 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 102
+2018-08-24 12:42:21 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 87
+2018-08-24 12:42:21 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 31
+2018-08-24 12:42:21 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 25
+2018-08-24 12:42:38 ::1 GET /CustomerHandler.ashx term=v 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 34
+2018-08-24 12:42:38 ::1 GET /CustomerHandler.ashx term=vi 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 117
+2018-08-24 12:42:38 ::1 GET /CustomerHandler.ashx term=vin 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 26
+2018-08-24 12:42:39 ::1 GET /CustomerHandler.ashx term=vina 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 15
+2018-08-24 12:42:40 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 174
+2018-08-24 12:42:40 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 56
+2018-08-24 12:43:11 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 234
+2018-08-24 12:43:11 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 87
+2018-08-24 12:43:19 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 - 200 0 0 70
+2018-08-24 12:43:19 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 70
+2018-08-24 12:43:22 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 26
+2018-08-24 12:43:31 ::1 GET /CustomerHandler.ashx term=mi 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 48
+2018-08-24 12:43:33 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 25
+2018-08-24 12:43:35 ::1 GET /CustomerHandler.ashx term=ma 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 28
+2018-08-24 12:43:44 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 19
+2018-08-24 12:43:50 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 132
+2018-08-24 12:43:50 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 51
+2018-08-24 12:43:50 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 12
+2018-08-24 12:44:09 ::1 GET /CustomerHandler.ashx term=r 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 13
+2018-08-24 12:44:10 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 126
+2018-08-24 12:44:10 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 78
+2018-08-24 12:44:18 ::1 GET /CustomerHandler.ashx term=r 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 49
+2018-08-24 12:44:18 ::1 GET /CustomerHandler.ashx term=rin 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 46
+2018-08-24 12:44:19 ::1 GET /CustomerHandler.ashx term=rina 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 20
+2018-08-24 12:44:20 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 200 0 0 290
+2018-08-24 12:44:20 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://localhost:61090/MainForm.aspx 404 0 2 45
+2018-08-24 12:50:11 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 8553
+2018-08-24 12:50:13 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 2
+2018-08-24 12:50:13 ::1 GET /Scripts/jquery-3.3.1.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 296
+2018-08-24 12:50:21 ::1 GET /CustomerHandler.ashx term=m 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 22
+2018-08-24 12:50:42 ::1 GET /CustomerHandler.ashx term=mi 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 32
+2018-08-24 12:50:44 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 191
+2018-08-24 12:50:44 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 44
+2018-08-24 12:50:51 ::1 GET /CustomerHandler.ashx term=min 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 98
+2018-08-24 12:50:51 ::1 GET /CustomerHandler.ashx term=mina 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 11
+2018-08-24 12:50:54 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 86
+2018-08-24 12:50:54 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 92
+2018-08-24 12:51:05 ::1 GET /CustomerHandler.ashx term=n 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 56
+2018-08-24 12:51:05 ::1 GET /CustomerHandler.ashx term=ni 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 68
+2018-08-24 12:51:09 ::1 GET /CustomerHandler.ashx term=nisha 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 20
+2018-08-24 12:51:10 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 333
+2018-08-24 12:51:10 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 97
+2018-08-24 12:51:17 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 51
+2018-08-24 12:51:17 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 24
+2018-08-24 12:51:23 ::1 GET /CustomerHandler.ashx term=nish 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 14
+2018-08-24 12:51:23 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 148
+2018-08-24 12:51:24 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 101
+2018-08-24 12:51:38 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 73
+2018-08-24 12:51:38 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 147
+2018-08-24 12:51:43 ::1 GET /CustomerHandler.ashx term=r 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 51
+2018-08-24 12:51:44 ::1 GET /CustomerHandler.ashx term=rani 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 26
+2018-08-24 12:51:44 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 290
+2018-08-24 12:51:44 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 121
+2018-08-24 12:52:23 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 130
+2018-08-24 12:52:23 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 183
+2018-08-24 12:52:34 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 107
+2018-08-24 12:52:34 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 3
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-24 13:13:56
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-24 13:13:56 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 15363
+2018-08-24 13:13:56 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 2
+2018-08-24 13:13:59 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 41
+2018-08-24 13:13:59 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 73

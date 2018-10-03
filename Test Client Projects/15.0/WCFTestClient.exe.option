@@ -1,0 +1,5 @@
+SecurityPrompt : Enabled
+RefreshPrompt : Enabled
+RegenerateConfig : Enabled
+ProjectBase:C:\Users\Charudatta Mundale\AppData\Local\Temp\Test Client Projects\15.0
+http://localhost:49474/Service1.svc

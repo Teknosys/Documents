@@ -1,0 +1,51 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-31 13:51:54
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-31 13:51:53 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 57608
+2018-08-31 13:51:53 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 268
+2018-08-31 13:51:53 ::1 GET /images/banner1.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 305
+2018-08-31 13:51:53 ::1 GET /js/site.js v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 305
+2018-08-31 13:51:53 ::1 GET /images/banner2.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 396
+2018-08-31 13:51:53 ::1 GET /images/banner3.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 410
+2018-08-31 13:51:53 ::1 GET /images/banner4.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 420
+2018-08-31 13:51:53 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 452
+2018-08-31 13:51:53 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 475
+2018-08-31 13:51:53 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 581
+2018-08-31 13:51:56 ::1 GET /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 53
+2018-08-31 13:51:56 ::1 GET /favicon.ico - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 93
+2018-08-31 13:52:08 ::1 GET /About - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 469
+2018-08-31 13:52:14 ::1 GET /Contact - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/About 200 0 0 257
+2018-08-31 13:52:18 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Contact 200 0 0 41
+2018-08-31 13:52:20 ::1 GET /About - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 38
+2018-08-31 13:52:22 ::1 GET /Contact - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/About 200 0 0 28
+2018-08-31 13:52:39 ::1 GET /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Contact 200 0 0 1886
+2018-08-31 13:52:39 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 235
+2018-08-31 13:52:39 ::1 GET /js/site.js v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 139
+2018-08-31 13:52:39 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 167
+2018-08-31 13:52:39 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 194
+2018-08-31 13:52:39 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 272
+2018-08-31 13:52:39 ::1 GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 200 0 0 194
+2018-08-31 13:52:39 ::1 GET /lib/jquery-validation/dist/jquery.validate.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 200 0 0 220
+2018-08-31 13:53:20 ::1 POST /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 200 0 0 537
+2018-08-31 13:53:20 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 129
+2018-08-31 13:53:20 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 177
+2018-08-31 13:53:20 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 136
+2018-08-31 13:53:20 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 109
+2018-08-31 13:53:20 ::1 GET /lib/jquery-validation/dist/jquery.validate.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 96
+2018-08-31 13:53:20 ::1 GET /js/site.js v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 188
+2018-08-31 13:53:20 ::1 GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 327
+2018-08-31 13:54:27 ::1 POST /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 500 0 0 51358
+2018-08-31 13:54:49 ::1 POST /ApplyDatabaseMigrations - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 204 0 0 16954
+2018-08-31 13:55:52 ::1 POST /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 302 0 0 2301
+2018-08-31 13:55:52 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 37
+2018-08-31 13:55:52 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 160
+2018-08-31 13:55:52 ::1 GET /images/banner1.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 183
+2018-08-31 13:55:52 ::1 GET /images/banner2.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 182
+2018-08-31 13:55:52 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 268
+2018-08-31 13:55:52 ::1 GET /images/banner4.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 110
+2018-08-31 13:55:52 ::1 GET /js/site.js v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 109
+2018-08-31 13:55:52 ::1 GET /images/banner3.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 272
+2018-08-31 13:55:52 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 114
+2018-08-31 13:55:52 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 114
+2018-08-31 13:55:52 ::1 GET /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 164

@@ -1,0 +1,23 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-09 11:38:23
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-09 11:38:23 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 22853
+2018-09-09 11:39:44 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3189
+2018-09-09 11:39:44 ::1 GET /css/templatemo_style.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 304 0 0 69
+2018-09-09 11:39:44 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 304 0 0 7
+2018-09-09 11:39:44 ::1 GET /Images/NurseandPatientJohnsHopkins.png.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 304 0 0 31
+2018-09-09 11:39:47 ::1 GET /favicon.ico - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 70
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-09 11:44:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-09 11:44:12 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7748
+2018-09-09 11:44:13 ::1 GET /favicon.ico - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 2 23
+2018-09-09 11:44:44 ::1 POST /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 200 0 0 5551
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-09 11:48:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-09 11:48:06 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3552
+2018-09-09 11:49:52 ::1 POST /ReportViewer.aspx Month=-1 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 500 0 0 93860

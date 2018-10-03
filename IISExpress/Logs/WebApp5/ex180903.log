@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-03 05:26:11
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-03 05:26:11 ::1 DEBUG / - 57811 - ::1 - - 400 0 64 129050
+2018-09-03 05:26:48 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 124255
+2018-09-03 05:26:53 ::1 GET /images/banner4.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 511
+2018-09-03 05:26:53 ::1 GET /css/site.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 663
+2018-09-03 05:26:53 ::1 GET /images/banner3.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 563
+2018-09-03 05:26:53 ::1 GET /images/banner2.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 623
+2018-09-03 05:26:53 ::1 GET /images/banner1.svg - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 700
+2018-09-03 05:26:53 ::1 GET /lib/jquery/dist/jquery.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 538
+2018-09-03 05:26:53 ::1 GET /lib/bootstrap/dist/css/bootstrap.css - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 755
+2018-09-03 05:26:53 ::1 GET /js/site.js v=EWaMeWsJBYWmL2g_KkgXZQ5nPe-a3Ichp0LEgzXczKo 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 539
+2018-09-03 05:26:53 ::1 GET /lib/bootstrap/dist/js/bootstrap.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 1137
+2018-09-03 05:26:57 ::1 GET /lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 304 0 0 254
+2018-09-03 05:27:05 ::1 GET /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 2568
+2018-09-03 05:27:05 ::1 GET /lib/jquery-validation/dist/jquery.validate.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 116
+2018-09-03 05:27:05 ::1 GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/Account/Register 304 0 0 256
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-03 06:31:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-03 06:31:59 ::1 DEBUG / - 57811 - ::1 - - 400 0 64 45572
+2018-09-03 06:32:27 ::1 GET / - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 61997
+2018-09-03 06:33:56 ::1 GET /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 3130
+2018-09-03 06:34:32 ::1 GET /Account/Register - 44300 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko https://localhost:44300/ 200 0 0 225

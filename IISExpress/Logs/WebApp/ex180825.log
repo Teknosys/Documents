@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-25 17:07:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-25 17:07:12 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 22334
+2018-08-25 17:09:02 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 976
+2018-08-25 17:09:03 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 74
+2018-08-25 17:09:03 ::1 GET /Scripts/jquery-3.3.1.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 355
+2018-08-25 17:09:03 ::1 GET /Images/Delete2.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 304 0 0 12
+2018-08-25 17:09:03 ::1 GET /Images/Add1.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 304 0 0 10
+2018-08-25 17:09:03 ::1 GET /Images/edit.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 304 0 0 38
+2018-08-25 17:09:08 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 105
+2018-08-25 17:09:08 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 187
+2018-08-25 17:17:46 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 18150
+2018-08-25 17:17:46 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 5
+2018-08-25 17:17:49 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 17
+2018-08-25 17:17:49 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 45
+2018-08-25 17:22:56 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1749
+2018-08-25 17:22:56 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 4
+2018-08-25 17:23:02 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 17
+2018-08-25 17:23:02 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 44
+2018-08-25 17:33:49 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1920
+2018-08-25 17:33:49 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 3
+2018-08-25 17:33:53 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 15
+2018-08-25 17:33:53 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 42
+2018-08-25 17:34:50 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1569
+2018-08-25 17:34:50 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 6
+2018-08-25 17:34:54 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 11
+2018-08-25 17:34:54 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 42
+2018-08-25 17:39:29 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1663
+2018-08-25 17:39:29 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 6
+2018-08-25 17:39:32 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 19
+2018-08-25 17:39:32 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 57
+2018-08-25 17:40:09 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1430
+2018-08-25 17:40:09 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 49
+2018-08-25 17:40:11 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 34
+2018-08-25 17:40:11 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 46
+2018-08-25 17:41:42 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1665
+2018-08-25 17:41:42 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 11
+2018-08-25 17:41:44 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 13
+2018-08-25 17:41:44 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 44
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-25 17:55:16
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-25 17:55:16 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 22941
+2018-08-25 18:03:41 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 843
+2018-08-25 18:03:43 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 55
+2018-08-25 18:04:25 ::1 POST /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 302 0 0 93
+2018-08-25 18:04:25 ::1 GET /Employee.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 82

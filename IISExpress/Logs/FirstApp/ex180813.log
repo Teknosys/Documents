@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-13 10:10:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-13 10:10:57 ::1 GET /UserLogin.aspx - 52424 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 23654
+2018-08-13 10:11:57 ::1 POST /UserLogin.aspx - 52424 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:52424/UserLogin.aspx 200 0 0 653
+2018-08-13 10:17:55 ::1 GET /UserLogin.aspx - 52424 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 1734
+2018-08-13 10:18:33 ::1 POST /UserLogin.aspx - 52424 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:52424/UserLogin.aspx 200 0 0 109

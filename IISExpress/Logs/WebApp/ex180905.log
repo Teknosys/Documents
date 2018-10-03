@@ -1,0 +1,299 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 04:38:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 04:38:31 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4313
+2018-09-05 04:38:31 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 279
+2018-09-05 04:38:31 ::1 GET /Images/Delete2.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 404
+2018-09-05 04:38:31 ::1 GET /Images/edit.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 407
+2018-09-05 04:38:31 ::1 GET /Images/Add1.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 442
+2018-09-05 04:38:31 ::1 GET /Scripts/jquery-3.3.1.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 565
+2018-09-05 04:38:31 ::1 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZIiAx4vZ-1dMkdhXuVTQFJ11LNI85ZWRG8QUiR9er7NZaKMyJT5cQSCSFoUUbzkvEw2&t=636668888816624236 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 644
+2018-09-05 04:38:35 ::1 GET /images/calendar.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 200 0 0 72
+2018-09-05 04:38:56 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 112
+2018-09-05 04:49:29 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 64 1387
+2018-09-05 04:49:48 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 365
+2018-09-05 04:50:42 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 97
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 04:51:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 04:51:59 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 16271
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 04:53:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 04:53:02 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 7635
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 04:53:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 04:53:47 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 4053
+2018-09-05 04:54:33 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 41
+2018-09-05 04:54:53 ::1 GET /MasterPage.master - 61090 - ::1 - - 404 7 0 36
+2018-09-05 04:55:16 ::1 GET /MasterPage.master - 61090 - ::1 - - 404 7 0 3
+2018-09-05 04:56:28 ::1 GET /jquery-ui.css - 61090 - ::1 - - 404 0 2 69
+2018-09-05 05:00:06 ::1 GET /MasterPage1.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 36
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:02:01
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:02:01 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 5104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:04:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:04:25 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 6185
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:10:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:10:27 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 3265
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:10:57
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:10:57 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 5104
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:18:03
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:18:03 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 8178
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:22:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:22:15 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 26227
+2018-09-05 05:22:15 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 3
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:29:34
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:29:34 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 7345
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:39:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:39:35 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 7029
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:41:33
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:41:33 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 7518
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:42:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:42:31 ::1 GET / - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 5965
+2018-09-05 05:42:31 ::1 GET /css/templatemo_style.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 70
+2018-09-05 05:42:31 ::1 GET /css/ddsmoothmenu.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 69
+2018-09-05 05:42:31 ::1 GET /js/swfobject/swfobject.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 89
+2018-09-05 05:42:31 ::1 GET /js/logging.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 28
+2018-09-05 05:42:31 ::1 GET /js/jquery.min.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 94
+2018-09-05 05:42:31 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 155
+2018-09-05 05:42:31 ::1 GET /images/desktop_aurora_borealis.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 115
+2018-09-05 05:42:31 ::1 GET /images/applications.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 184
+2018-09-05 05:42:31 ::1 GET /images/invoice.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 176
+2018-09-05 05:42:31 ::1 GET /images/preferences.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 171
+2018-09-05 05:42:31 ::1 GET /images/footer_icon.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 116
+2018-09-05 05:42:31 ::1 GET /images/templatemo_image_02.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 177
+2018-09-05 05:42:31 ::1 GET /images/presentation.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 244
+2018-09-05 05:42:31 ::1 GET /images/templatemo_image_01.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 193
+2018-09-05 05:42:32 ::1 GET /images/templatemo_button.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 18
+2018-09-05 05:42:32 ::1 GET /piecemaker.swf - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 627
+2018-09-05 05:42:34 ::1 GET /images/templatemo_menu_hover.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 10
+2018-09-05 05:42:34 ::1 GET /images/templatemo_smm.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 12
+2018-09-05 05:42:34 ::1 GET /images/templatemo_header_bg.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 16
+2018-09-05 05:42:34 ::1 GET /images/templatemo_smt.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 11
+2018-09-05 05:42:34 ::1 GET /images/templatemo_smb.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 10
+2018-09-05 05:42:34 ::1 GET /images/templatemo_middle.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 77
+2018-09-05 05:42:34 ::1 GET /images/twitter.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 112
+2018-09-05 05:42:34 ::1 GET /images/feed.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 99
+2018-09-05 05:42:34 ::1 GET /images/facebook.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 200 0 0 113
+2018-09-05 05:42:37 ::1 GET /piecemaker.xml - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 119
+2018-09-05 05:42:37 ::1 GET /css/piecemaker.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 31
+2018-09-05 05:42:37 ::1 GET /contents/piecemaker1.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 46
+2018-09-05 05:42:39 ::1 GET /contents/piecemaker2.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 43
+2018-09-05 05:42:39 ::1 GET /contents/piecemaker3.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 33
+2018-09-05 05:42:39 ::1 GET /contents/piecemaker4.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 59
+2018-09-05 05:42:49 ::1 GET /default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 2028
+2018-09-05 05:43:04 ::1 GET /images/templatemo_smb.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 44
+2018-09-05 05:43:04 ::1 GET /images/templatemo_menu_hover.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 48
+2018-09-05 05:43:04 ::1 GET /images/templatemo_smm.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 52
+2018-09-05 05:43:04 ::1 GET /images/templatemo_smt.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/ 404 0 2 26
+2018-09-05 05:43:45 ::1 GET /default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 2216
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:51:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:51:46 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 10587
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 05:57:04
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 05:57:04 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 8325
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:06:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:06:59 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 8483
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:08:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:08:02 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3812
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:09:14
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:09:14 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4753
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:23:00
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:23:00 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 9636
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:24:06
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:24:06 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7052
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:26:38
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:26:38 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2912
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:32:42
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:32:42 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4161
+2018-09-05 06:35:05 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7721
+2018-09-05 06:35:29 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3154
+2018-09-05 06:39:48 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3495
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 06:45:05
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 06:45:05 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7779
+2018-09-05 06:45:39 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7
+2018-09-05 06:48:52 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 6188
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 07:17:43
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 07:17:43 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 281
+2018-09-05 07:17:43 ::1 GET /css/templatemo_style.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 209
+2018-09-05 07:17:43 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 204
+2018-09-05 07:17:43 ::1 GET /css/ddsmoothmenu.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 207
+2018-09-05 07:17:43 ::1 GET /js/jquery.min.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 211
+2018-09-05 07:17:43 ::1 GET /images/applications.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 278
+2018-09-05 07:17:43 ::1 GET /images/desktop_aurora_borealis.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 120
+2018-09-05 07:17:43 ::1 GET /images/preferences.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 134
+2018-09-05 07:17:43 ::1 GET /images/invoice.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 184
+2018-09-05 07:17:43 ::1 GET /images/presentation.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 138
+2018-09-05 07:17:43 ::1 GET /js/logging.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 204
+2018-09-05 07:17:43 ::1 GET /images/templatemo_image_02.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 82
+2018-09-05 07:17:43 ::1 GET /images/templatemo_image_01.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 103
+2018-09-05 07:17:43 ::1 GET /images/footer_icon.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 40
+2018-09-05 07:17:43 ::1 GET /js/swfobject/swfobject.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 873
+2018-09-05 07:17:44 ::1 GET /images/templatemo_button.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 7
+2018-09-05 07:17:44 ::1 GET /images/templatemo_header_bg.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 78
+2018-09-05 07:17:44 ::1 GET /images/feed.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 101
+2018-09-05 07:17:44 ::1 GET /images/twitter.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 125
+2018-09-05 07:17:44 ::1 GET /images/facebook.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 127
+2018-09-05 07:18:34 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4
+2018-09-05 07:18:57 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 12
+2018-09-05 07:19:20 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3
+2018-09-05 07:19:48 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3
+2018-09-05 07:19:52 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3
+2018-09-05 07:21:31 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 8708
+2018-09-05 07:21:31 ::1 GET /images/templatemo_middle.jpg - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 104
+2018-09-05 07:21:31 ::1 GET /piecemaker.swf - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 200 0 0 349
+2018-09-05 07:21:34 ::1 GET /piecemaker.xml - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 111
+2018-09-05 07:21:34 ::1 GET /css/piecemaker.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 49
+2018-09-05 07:21:34 ::1 GET /contents/piecemaker1.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 211
+2018-09-05 07:21:34 ::1 GET /contents/piecemaker2.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 50
+2018-09-05 07:21:34 ::1 GET /contents/piecemaker3.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 134
+2018-09-05 07:21:34 ::1 GET /contents/piecemaker4.png - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/piecemaker.swf 200 0 0 172
+2018-09-05 07:21:58 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3362
+2018-09-05 07:22:55 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3064
+2018-09-05 07:25:34 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3334
+2018-09-05 07:25:34 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 64
+2018-09-05 07:28:18 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3391
+2018-09-05 07:32:56 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3242
+2018-09-05 07:34:35 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 9479
+2018-09-05 07:34:35 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 171
+2018-09-05 07:35:40 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3033
+2018-09-05 07:36:53 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 10
+2018-09-05 07:37:07 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3684
+2018-09-05 07:38:01 ::1 GET /css/templatemo_style.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 289
+2018-09-05 07:41:40 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3062
+2018-09-05 07:43:45 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3640
+2018-09-05 07:43:45 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 236
+2018-09-05 07:47:33 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4074
+2018-09-05 07:47:57 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3495
+2018-09-05 07:50:24 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3507
+2018-09-05 07:52:57 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4886
+2018-09-05 07:53:59 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2729
+2018-09-05 07:53:59 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 246
+2018-09-05 07:55:11 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2495
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 08:16:10
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 08:16:10 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 6463
+2018-09-05 08:16:45 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1792
+2018-09-05 08:18:24 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3374
+2018-09-05 08:18:24 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 111
+2018-09-05 08:20:04 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1735
+2018-09-05 08:23:32 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1392
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 08:29:59
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 08:29:59 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 4577
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 08:31:48
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 08:31:48 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 10987
+2018-09-05 08:31:48 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 157
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 08:33:22
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 08:33:22 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2977
+2018-09-05 08:37:46 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2838
+2018-09-05 08:39:47 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2841
+2018-09-05 08:41:08 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2305
+2018-09-05 08:42:18 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2778
+2018-09-05 08:43:07 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2424
+2018-09-05 08:44:18 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2614
+2018-09-05 08:44:50 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3182
+2018-09-05 08:45:39 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2389
+2018-09-05 08:58:07 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2889
+2018-09-05 08:58:07 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 8
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 11:49:49
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 11:49:49 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 16026
+2018-09-05 11:49:49 ::1 GET /js/ddsmoothmenu.js - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Default.aspx 304 0 0 45
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-09-05 11:53:31
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-09-05 11:53:31 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4790
+2018-09-05 11:54:10 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 792
+2018-09-05 11:54:43 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 892
+2018-09-05 11:55:15 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1010
+2018-09-05 11:55:46 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 930
+2018-09-05 11:56:16 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 896
+2018-09-05 11:57:07 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 767
+2018-09-05 11:57:50 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1173
+2018-09-05 11:59:14 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 2883
+2018-09-05 11:59:59 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 500 0 0 1114
+2018-09-05 12:02:10 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3237
+2018-09-05 12:02:10 ::1 GET /WebResource.axd d=pynGkmcFUV13He1Qd6_TZIiAx4vZ-1dMkdhXuVTQFJ11LNI85ZWRG8QUiR9er7NZaKMyJT5cQSCSFoUUbzkvEw2&t=636668888816624236 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/Customer.aspx 200 0 0 111
+2018-09-05 12:05:58 ::1 GET /Default.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4012
+2018-09-05 12:06:26 ::1 GET /Customer.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 69

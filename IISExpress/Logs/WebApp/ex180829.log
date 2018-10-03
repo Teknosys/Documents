@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-29 07:48:47
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-29 07:48:47 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 28185
+2018-08-29 07:48:50 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 84
+2018-08-29 07:48:54 ::1 GET /MasterPage.master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 23
+2018-08-29 07:54:57 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 4199
+2018-08-29 07:54:57 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 25
+2018-08-29 07:55:11 ::1 GET /MasterPage.master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 1
+2018-08-29 07:57:43 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 2748
+2018-08-29 07:57:43 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 6
+2018-08-29 07:57:53 ::1 GET /MasterPage.master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 1
+2018-08-29 08:02:36 ::1 GET /MainForm.aspx - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 3035
+2018-08-29 08:02:36 ::1 GET /jquery-ui.css - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61090/MainForm.aspx 404 0 2 8
+2018-08-29 08:02:39 ::1 GET /MasterPage.master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 4
+2018-08-29 08:02:48 ::1 GET /MasterPage1.master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 1
+2018-08-29 08:02:56 ::1 GET /MasterPage1.Master - 61090 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 7 0 2

@@ -1,0 +1,22 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-22 10:54:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-22 10:54:25 ::1 GET /Employee/Emp - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 121450
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2018-08-22 11:08:40
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-08-22 11:08:40 ::1 GET / - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 12458
+2018-08-22 11:08:40 ::1 GET /Scripts/bootstrap.js - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 53
+2018-08-22 11:08:40 ::1 GET /Content/site.css - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 60
+2018-08-22 11:08:40 ::1 GET /Scripts/respond.js - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 58
+2018-08-22 11:08:40 ::1 GET /Content/bootstrap.css - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 95
+2018-08-22 11:08:40 ::1 GET /Scripts/modernizr-2.6.2.js - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 104
+2018-08-22 11:08:40 ::1 GET /Scripts/jquery-1.10.2.js - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://localhost:61059/ 200 0 0 131
+2018-08-22 11:09:07 ::1 GET /EmployeeController/Emp - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 30
+2018-08-22 11:14:51 ::1 GET / - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 8566
+2018-08-22 11:14:59 ::1 GET /EmployeeController/Emp - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 21
+2018-08-22 11:15:20 ::1 GET / - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 8
+2018-08-22 11:19:23 ::1 GET / - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 0 0 7288
+2018-08-22 11:19:48 ::1 GET /EmployeeController/Emp - 61059 - ::1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 0 0 20
